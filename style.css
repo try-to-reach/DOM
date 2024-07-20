@@ -102,7 +102,7 @@
   font-family: 'Vast Shadow';
 }
 .frame-child {
-  width: 353px;
+  width: 93.7%;
   position: absolute;
   margin: 0 !important;
   top: 13px;
@@ -384,7 +384,7 @@
   position: absolute;
   top: 216px;
   left: 30px;
-  width: 333px;
+  width: 84.8%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
