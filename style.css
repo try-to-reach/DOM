@@ -637,7 +637,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 412px)  {
+@media only screen and (max-width: 412px)   {
   /* کدهای CSS خود را اینجا وارد کنید */
   .rectangle-parent{
     height: 745px;
