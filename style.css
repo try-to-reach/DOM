@@ -759,7 +759,9 @@ body {
       width: 100%;
   }
 }
-
+.group{
+display: flex;
+}
 .typing {
   display: inline-block;
   height: fit-content;
@@ -785,6 +787,7 @@ body {
 
 @media only screen and (min-width: 379px) and (max-width: 408px) {
   /* کدهای CSS خود را اینجا وارد کنید */
+
   .div6 {
     position: absolute;
     top: 21px;
