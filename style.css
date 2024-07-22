@@ -222,7 +222,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
-  padding: 8px 0px;
+  padding: 8px 3px;
   position: relative;
   gap: 10px;
 }
